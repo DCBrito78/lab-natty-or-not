@@ -29,7 +29,7 @@ Algumas falas dos personagens podem ser geradas com IA para aumentar o desafio.
 Jogo interativo e educativo sobre deepfakes e inteligência artificial.
 Demonstração prática de como IA pode gerar arte e narrativas quase indistinguíveis das humanas.
 Reflexão sobre os desafios de distinguir conteúdo humano de gerado por IA.
-[Link do Projeto](https://github.com/DCBrito78/lab-natty-or-not/edit/main/README.md>)
+[Link do Projeto](https://humble-disco-wg74xwvj775hgjg9.github.dev/)
 
 💭 Reflexão
 
